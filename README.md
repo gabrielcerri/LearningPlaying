@@ -2,4 +2,4 @@
    First Game Version
    
   
- [https://gabrielcerri.github.io/LearningPlaying/](try it!)
+ (https://gabrielcerri.github.io/LearningPlaying/)[try it!]
